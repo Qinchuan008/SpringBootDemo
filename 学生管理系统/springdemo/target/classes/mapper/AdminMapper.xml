@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.springdemo.mapper.AdminMapper">
+<!--    因为我已经在配置文件里面指定了  type-aliases-package: com.example.springdemo.entity-->
+<!--    所以这里的resultType直接写Admin就行了，不用写完整路径-->
+        <select id="getAdminByUsername" parameterType="Admin" resultType="Admin">
+            SELECT * FROM admin WHERE username=#{username}
+        </select>
+</mapper>
