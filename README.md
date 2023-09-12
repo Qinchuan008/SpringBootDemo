@@ -13,9 +13,10 @@
    然后右键此数据库，运行sql文件，sql文件就是springbootvuedemo.sql
 2. 启动后端
    用IDE打开后端项目springdemo
-    修改application.yml里面的数据库密码为你自己电脑数据库的密码
+   修改application.yml里面的数据库密码为你自己电脑数据库的密码
    然后可以直接启动项目了
 3. 启动前端
-    用vscode或者webstorm启动前端项目vuedemo
-    打开控制台进入项目目录，输入 npm install 安装项目依赖
+   用vscode或者webstorm启动前端项目vuedemo
+   打开控制台进入项目目录，输入 npm install 安装项目依赖
    然后输入 npm run serve 启动项目即可
+![image](https://github.com/Qinchuan008/SpringBootDemo/assets/87808576/1f53deae-2e6a-4528-8dd4-8a00d2cc7348)
