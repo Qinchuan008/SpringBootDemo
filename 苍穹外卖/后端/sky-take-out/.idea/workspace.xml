@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4162f845-9cb0-4948-bbfd-6d5e4f1350bd" name="更改" comment="Excel导出功能代码开发，项目完结" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2VpyVosNLjMiyAMSlddfRZUlyxG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Projects-SpringBoot/Project-Sky/sky-take-out/sky-server/src/main/resources/template",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects-SpringBoot\Project-Sky\sky-take-out\sky-server\src\main\resources\template" />
+      <recent name="D:\Projects-SpringBoot\Project-Sky\sky-take-out\sky-server\src\main\java\com\sky\task" />
+      <recent name="D:\Projects-SpringBoot\Project-Sky\sky-take-out\sky-server\src\main\java\com\sky\websocket" />
+      <recent name="D:\Projects-SpringBoot\Project-Sky\sky-take-out\sky-server\src\main\java\com\sky\controller\user" />
+      <recent name="D:\Projects-SpringBoot\Project-Sky\sky-take-out\sky-server\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SkyApplication">
+    <configuration name="HttpClientTest.testGET" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sky-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sky.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sky.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.test.HttpClientTest" />
+      <option name="METHOD_NAME" value="testGET" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpClientTest.testPOST" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sky-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sky.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sky.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.test.HttpClientTest" />
+      <option name="METHOD_NAME" value="testPOST" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sky-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sky.SkyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HttpClientTest.testPOST" />
+        <item itemvalue="JUnit.HttpClientTest.testGET" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="4162f845-9cb0-4948-bbfd-6d5e4f1350bd" name="更改" comment="" />
+      <created>1695547347765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695547347765</updated>
+      <workItem from="1695547348259" duration="3346000" />
+      <workItem from="1695559658658" duration="1546000" />
+      <workItem from="1695561216916" duration="727000" />
+      <workItem from="1695561954650" duration="235000" />
+      <workItem from="1695562198876" duration="79000" />
+      <workItem from="1695562287875" duration="140000" />
+      <workItem from="1695562523751" duration="174000" />
+      <workItem from="1695562712440" duration="106000" />
+      <workItem from="1695562837597" duration="887000" />
+      <workItem from="1695608104667" duration="5679000" />
+      <workItem from="1695615649740" duration="1596000" />
+      <workItem from="1695627827388" duration="1729000" />
+      <workItem from="1695629794675" duration="2816000" />
+      <workItem from="1695698030634" duration="3117000" />
+      <workItem from="1695716449629" duration="1805000" />
+      <workItem from="1695724790469" duration="5327000" />
+      <workItem from="1695776750633" duration="2321000" />
+      <workItem from="1695781530752" duration="4695000" />
+      <workItem from="1695794068367" duration="9794000" />
+      <workItem from="1695813499876" duration="2799000" />
+      <workItem from="1695897524860" duration="5604000" />
+      <workItem from="1695976144356" duration="4937000" />
+      <workItem from="1695992419923" duration="171000" />
+      <workItem from="1695992606924" duration="59000" />
+      <workItem from="1695992675976" duration="5180000" />
+      <workItem from="1696146116085" duration="4089000" />
+      <workItem from="1696508456927" duration="7151000" />
+      <workItem from="1696564647671" duration="4801000" />
+      <workItem from="1696825781634" duration="6874000" />
+      <workItem from="1696900949487" duration="734000" />
+      <workItem from="1696991112877" duration="289000" />
+      <workItem from="1696991521620" duration="4305000" />
+      <workItem from="1697018362111" duration="4293000" />
+      <workItem from="1697035644876" duration="2478000" />
+      <workItem from="1697081800966" duration="5864000" />
+    </task>
+    <task id="LOCAL-00001" summary="苍穹外卖初始化">
+      <option name="closed" value="true" />
+      <created>1695549594673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695549594673</updated>
+    </task>
+    <task id="LOCAL-00002" summary="新增员工功能开发">
+      <option name="closed" value="true" />
+      <created>1695609602197</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695609602197</updated>
+    </task>
+    <task id="LOCAL-00003" summary="员工分页查询业务开发">
+      <option name="closed" value="true" />
+      <created>1695611518199</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695611518199</updated>
+    </task>
+    <task id="LOCAL-00004" summary="员工分页查询业务开发">
+      <option name="closed" value="true" />
+      <created>1695611750208</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695611750208</updated>
+    </task>
+    <task id="LOCAL-00005" summary="启用禁用员工业务代码开发">
+      <option name="closed" value="true" />
+      <created>1695612551775</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695612551775</updated>
+    </task>
+    <task id="LOCAL-00006" summary="编辑员工业务代码开发">
+      <option name="closed" value="true" />
+      <created>1695617545286</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695617545286</updated>
+    </task>
+    <task id="LOCAL-00007" summary="分类管理模块功能代码">
+      <option name="closed" value="true" />
+      <created>1695632355492</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695632355492</updated>
+    </task>
+    <task id="LOCAL-00008" summary="公共字段自动填充代码实现">
+      <option name="closed" value="true" />
+      <created>1695704090881</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695704090881</updated>
+    </task>
+    <task id="LOCAL-00009" summary="新增菜品业务代码开发">
+      <option name="closed" value="true" />
+      <created>1695734842980</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1695734842980</updated>
+    </task>
+    <task id="LOCAL-00010" summary="删除菜品业务开发">
+      <option name="closed" value="true" />
+      <created>1695781581762</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1695781581762</updated>
+    </task>
+    <task id="LOCAL-00011" summary="修改菜品业务开发">
+      <option name="closed" value="true" />
+      <created>1695783256572</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1695783256572</updated>
+    </task>
+    <task id="LOCAL-00012" summary="新增套餐和分页查询套餐业务开发">
+      <option name="closed" value="true" />
+      <created>1695796635976</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1695796635976</updated>
+    </task>
+    <task id="LOCAL-00013" summary="删除套餐业务开发">
+      <option name="closed" value="true" />
+      <created>1695798080413</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1695798080413</updated>
+    </task>
+    <task id="LOCAL-00014" summary="修改套餐业务开发">
+      <option name="closed" value="true" />
+      <created>1695803375950</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1695803375950</updated>
+    </task>
+    <task id="LOCAL-00015" summary="起售停售套餐业务开发">
+      <option name="closed" value="true" />
+      <created>1695805230589</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1695805230589</updated>
+    </task>
+    <task id="LOCAL-00016" summary="店铺营业状态设置代码业务开发">
+      <option name="closed" value="true" />
+      <created>1695902127548</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1695902127548</updated>
+    </task>
+    <task id="LOCAL-00017" summary="商品浏览业务功能代码开发">
+      <option name="closed" value="true" />
+      <created>1696149551379</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1696149551379</updated>
+    </task>
+    <task id="LOCAL-00018" summary="缓存菜品业务功能代码开发">
+      <option name="closed" value="true" />
+      <created>1696509805818</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1696509805818</updated>
+    </task>
+    <task id="LOCAL-00019" summary="缓存套餐业务功能代码开发">
+      <option name="closed" value="true" />
+      <created>1696513742513</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1696513742513</updated>
+    </task>
+    <task id="LOCAL-00020" summary="添加购物车业务功能代码开发">
+      <option name="closed" value="true" />
+      <created>1696517390201</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1696517390201</updated>
+    </task>
+    <task id="LOCAL-00021" summary="查看购物车业务功能代码开发">
+      <option name="closed" value="true" />
+      <created>1696517669958</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1696517669958</updated>
+    </task>
+    <task id="LOCAL-00022" summary="清空购物车业务功能代码开发">
+      <option name="closed" value="true" />
+      <created>1696517862628</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1696517862628</updated>
+    </task>
+    <task id="LOCAL-00023" summary="地址簿业务功能代码开发">
+      <option name="closed" value="true" />
+      <created>1696565028257</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1696565028257</updated>
+    </task>
+    <task id="LOCAL-00024" summary="用户下单和订单支付业务功能代码开发">
+      <option name="closed" value="true" />
+      <created>1696834706038</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1696834706038</updated>
+    </task>
+    <task id="LOCAL-00025" summary="用户历史订单功能代码开发">
+      <option name="closed" value="true" />
+      <created>1696838636709</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1696838636709</updated>
+    </task>
+    <task id="LOCAL-00026" summary="管理端用户端订单模块功能代码开发">
+      <option name="closed" value="true" />
+      <created>1697038070183</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1697038070183</updated>
+    </task>
+    <task id="LOCAL-00027" summary="管理端报表统计功能代码开发">
+      <option name="closed" value="true" />
+      <created>1697089446028</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1697089446028</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Excel导出功能代码开发，项目完结">
+      <option name="closed" value="true" />
+      <created>1697097932630</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1697097932630</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="员工分页查询业务开发" />
+    <MESSAGE value="启用禁用员工业务代码开发" />
+    <MESSAGE value="编辑员工业务代码开发" />
+    <MESSAGE value="分类管理模块功能代码" />
+    <MESSAGE value="公共字段自动填充代码实现" />
+    <MESSAGE value="新增菜品业务代码开发" />
+    <MESSAGE value="删除菜品业务开发" />
+    <MESSAGE value="修改菜品业务开发" />
+    <MESSAGE value="新增套餐和分页查询套餐业务开发" />
+    <MESSAGE value="删除套餐业务开发" />
+    <MESSAGE value="修改套餐业务开发" />
+    <MESSAGE value="起售停售套餐业务开发" />
+    <MESSAGE value="店铺营业状态设置代码业务开发" />
+    <MESSAGE value="商品浏览业务功能代码开发" />
+    <MESSAGE value="缓存菜品业务功能代码开发" />
+    <MESSAGE value="缓存套餐业务功能代码开发" />
+    <MESSAGE value="添加购物车业务功能代码开发" />
+    <MESSAGE value="查看购物车业务功能代码开发" />
+    <MESSAGE value="清空购物车业务功能代码开发" />
+    <MESSAGE value="地址簿业务功能代码开发" />
+    <MESSAGE value="用户下单和订单支付业务功能代码开发" />
+    <MESSAGE value="用户历史订单功能代码开发" />
+    <MESSAGE value="管理端用户端订单模块功能代码开发" />
+    <MESSAGE value="管理端报表统计功能代码开发" />
+    <MESSAGE value="Excel导出功能代码开发，项目完结" />
+    <option name="LAST_COMMIT_MESSAGE" value="Excel导出功能代码开发，项目完结" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
