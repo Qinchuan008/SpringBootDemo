@@ -33,7 +33,7 @@
         </map>
       </branch-storage>
     </excluded-from-favorite>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -56,7 +56,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "sky-take-out",
     "last_opened_file_path": "D:/Projects-SpringBoot/Project-Sky/sky-take-out/sky-server/src/main/resources/template",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -176,6 +176,7 @@
       <workItem from="1697018362111" duration="4293000" />
       <workItem from="1697035644876" duration="2478000" />
       <workItem from="1697081800966" duration="5864000" />
+      <workItem from="1697100840831" duration="112000" />
     </task>
     <task id="LOCAL-00001" summary="苍穹外卖初始化">
       <option name="closed" value="true" />
