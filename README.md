@@ -37,6 +37,7 @@
 ## 图片展示
 ![image](https://github.com/Qinchuan008/SpringBootDemo/assets/87808576/7de40881-005c-4c58-9812-8e4a460fa493)
 ![image](https://github.com/Qinchuan008/SpringBootDemo/assets/87808576/f98b6e99-1f9b-4046-9adb-c09ddaff8495)
+![image](https://github.com/Qinchuan008/SpringBootDemo/assets/87808576/0a913aff-4bf2-4ad0-8923-0a8afb8b7979)
 ![image](https://github.com/Qinchuan008/SpringBootDemo/assets/87808576/bb28225a-47ee-49cf-9994-00af554a6aa5)
 ![image](https://github.com/Qinchuan008/SpringBootDemo/assets/87808576/2449e279-51fa-42e9-99cd-d10bcc5ca20c)
 ![image](https://github.com/Qinchuan008/SpringBootDemo/assets/87808576/7b093ae3-7b75-422b-8f90-00b93f840fd1)
@@ -44,5 +45,7 @@
 ![image](https://github.com/Qinchuan008/SpringBootDemo/assets/87808576/a481684c-467a-496f-b119-c96f17a90435)
 ![image](https://github.com/Qinchuan008/SpringBootDemo/assets/87808576/31cd3852-5a13-4754-aa88-057d220fa6bc)
 ![image](https://github.com/Qinchuan008/SpringBootDemo/assets/87808576/3fb4d463-b7fa-4919-9ea5-350401324db4)
+![image](https://github.com/Qinchuan008/SpringBootDemo/assets/87808576/5dd8cd71-490e-4134-87cf-3d81b1d275fc)
+
 ![image](https://github.com/Qinchuan008/SpringBootDemo/assets/87808576/3ec3b3c3-f51b-4283-af6e-b45fe7f05cc4)
 
